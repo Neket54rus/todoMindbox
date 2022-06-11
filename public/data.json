@@ -1,0 +1,7 @@
+{
+	"list": [
+		{ "id": 1, "name": "Уборка", "performed": false },
+		{ "id": 2, "name": "Зарядка", "performed": false },
+		{ "id": 3, "name": "Выпить 2л. воды", "performed": false }
+	]
+}
